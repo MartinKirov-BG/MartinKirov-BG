@@ -1,16 +1,93 @@
-## Hi there 👋
+# 👋 Hi, I'm Martin — Manual QA Engineer
 
-<!--
-**fas7blas7/fas7blas7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧪 QA Engineer focused on Manual Testing, API Validation & UI Automation
 
-Here are some ideas to get you started:
+I build structured QA processes that ensure software quality through **test design, exploratory testing, and automation fundamentals**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 What I Do
+
+- 🧪 Manual QA Engineering (primary focus)
+- 🔌 API Testing (Postman, Newman)
+- 🤖 UI Automation (Playwright, Selenium)
+- 🧠 Test case design & exploratory testing
+- 🐞 Bug reporting & root cause analysis
+
+---
+
+## 🧭 QA Journey
+
+Manual QA → API Testing → UI Automation → Test Framework Design
+
+This portfolio demonstrates my progression into structured QA engineering practices.
+
+---
+
+## 🛠️ Technologies I Work With
+
+### 🧪 UI Automation
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### 🔌 API Testing
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-000000?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+### ⚙️ Dev & CI Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🧪 OpenCart Manual QA
+- Test cases, bug reports, exploratory testing
+- Real-world e-commerce QA workflow
+
+### 🔌 API Testing Framework
+- Dockerized Postman/Newman execution
+- CRUD + negative testing
+
+### 🤖 Playwright UI Automation
+- Page Object Model (POM)
+- Product CRUD automation
+- Cross-browser execution
+
+### 🧪 Selenium C# Framework
+- POM architecture
+- reusable test structure
+
+---
+
+## 📊 QA Skills
+
+- Manual Testing (strongest skill)
+- Test Case Design
+- Exploratory Testing
+- Bug Reporting
+- API Testing
+- UI Automation
+- Test Framework Design
+- CI/CD Awareness
+
+---
+
+## 💡 QA Philosophy
+
+> “Good QA is not about executing tests — it is about understanding risk, behavior, and system failure points.”
+
+---
+
+## 📬 About Me
+
+I am actively developing my QA engineering skills through structured real-world projects focused on manual testing and automation fundamentals.
+
+Currently focused on:
+- improving test design quality
+- strengthening API validation skills
+- building maintainable QA systems
