@@ -64,6 +64,17 @@ This portfolio demonstrates my progression into structured QA engineering practi
 
 ---
 
+## 💼 What I Can Do as a QA Engineer
+
+- Design and execute manual test cases
+- Perform exploratory testing and find edge cases
+- Write clear, structured bug reports
+- Validate APIs using Postman/Newman
+- Automate UI workflows using Playwright & Selenium
+- Understand basic CI/CD workflows (GitHub Actions, Jenkins)
+
+---
+
 ## 📊 QA Skills
 
 - Manual Testing (strongest skill)
@@ -91,3 +102,9 @@ Currently focused on:
 - improving test design quality
 - strengthening API validation skills
 - building maintainable QA systems
+
+---
+
+## 🎯 Goal
+
+To work as a Manual QA Engineer in a real product team where I can improve software quality through structured testing and clear defect reporting.
