@@ -42,6 +42,7 @@ This portfolio demonstrates my progression into structured QA engineering practi
 
 ### 🔌 API Testing
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Apache JMeter](https://a11ybadges.com/badge?logo=apachejmeter)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Newman](https://img.shields.io/badge/Newman-000000?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
